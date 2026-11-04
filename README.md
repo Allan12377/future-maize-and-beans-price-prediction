@@ -1,8 +1,15 @@
-# BCS 3101 Capstone Project – Individual Submission
+# BCS 3101 Capstone Project
 ## Predicting Future Monthly Retail Prices of Maize and Beans in Selected Ugandan Markets
 
-**Student:** AINEBYONA ALLAN  
-**Registration Number:** 2024/A/KCS/1670/F  
+NAME	REG. NO
+AYEN GEOFFREY ALEXANDER	2024/A/KCS/5102/G/F
+KYOSHABIRE DIANAH	2024/A/KCS/5188/G/F
+ARINDA ELIZABETH	2024/A/KCS/3099/G/F
+KUKUNDAKWE SAVIOUS	2024/A/KCS/4333/F
+GUMISIRIZA AMBROSE	2024/A/KCS/3143/F
+AINEBYONA ALLAN	2024/A/KCS/1670/F
+NIYONSHUTI MERCY	2025/A/KCS/6117/F
+
 **Programme:** Bachelor of Computer Science, Year 3 Semester 1  
 **University:** Kabale University  
 **Course:** BCS 3101 – Basics of Machine Learning / Capstone  
